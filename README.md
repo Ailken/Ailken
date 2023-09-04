@@ -22,3 +22,6 @@
 
 
 > "Acredite que você pode, assim você já está no meio do caminho" - Theodore Roosevelt
+
+
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailken&theme=tokyonight&custom_title=Principais%20%Linguagens)
