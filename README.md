@@ -1,9 +1,10 @@
 🚀 Olá Pessoal!
 
-"Meu nome é Ailken Fidelis e iniciei minha jornada na área de tecnologia em 2022, quando comecei a cursar **Análise e Desenvolvimento de Sistemas**. Atualmente, estou ampliando meus conhecimentos ao participar do curso de **Backend em JavaScript**, em parceria com [@cubosacademy](https://cubos.academy/) e o iFood."
+"Meu nome é Ailken Fidelis e iniciei minha jornada na área de tecnologia em 2022, quando comecei a cursar **Análise e Desenvolvimento de Sistemas**. Atualmente, estou ampliando meus conhecimentos ao participar do curso de **Backend em JavaScript**, em parceria com [@cubosacademy](https://cubos.academy/) e o iFood. Além disso, estou aberto e motivado para aprender e expandir ainda mais minha bagagem de habilidades na área de tecnologia."
 
 🌐 Para me encontrar:
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ailken.fidelis?igshid=NGVhN2U2NjQ0Yg==)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailken-fidelis/)
 
 <a href="ailkencf@gmail.com">
